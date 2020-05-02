@@ -1,4 +1,11 @@
 {
+    "[fsharp]": {
+        "editor.formatOnSave": false
+    },
+    "FSharp.monoPath": "mono",
+    "FSharp.fsiExtraParameters": [
+        "--langversion:preview"
+    ],
     "omnisharp.enableEditorConfigSupport": true,
     "omnisharp.enableRoslynAnalyzers": true,
     "omnisharp.path": "latest",
