@@ -2,6 +2,7 @@
 
 ```json
 {
-    "omnisharp.enableRoslynAnalyzers": true
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableEditorConfigSupport": true
 }
 ```

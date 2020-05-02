@@ -1,6 +1,6 @@
 {
     "omnisharp.enableEditorConfigSupport": true,
-    // "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableRoslynAnalyzers": true,
     "omnisharp.path": "latest",
     "files.exclude": {
         "**/.git": true,
