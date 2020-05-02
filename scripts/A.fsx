@@ -2,8 +2,6 @@
 
 open Newtonsoft.Json
 
-let a = {| A = 100; B = 200 |}
-
-a
+{| A = 100; B = 200 |}
 |> JsonConvert.SerializeObject
-|> printfn "%A"
+|> printfn "%s"
