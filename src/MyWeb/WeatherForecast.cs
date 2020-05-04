@@ -1,7 +1,9 @@
 using System;
 
-namespace MyWeb {
-    public class WeatherForecast {
+namespace MyWeb
+{
+    public class WeatherForecast
+    {
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
