@@ -10,3 +10,17 @@ dotnet new webapi -o src/MyWeb
     "omnisharp.enableEditorConfigSupport": true
 }
 ```
+
+## Omnisharp
+
+```json
+{
+    "FormatingOptions": {
+        "OrganizeImports": true
+    }
+}
+```
+
+## Extensions
+
+- https://marketplace.visualstudio.com/items?itemName=josefpihrt-vscode.roslynator

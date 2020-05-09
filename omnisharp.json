@@ -1,5 +1,6 @@
 {
     "FormattingOptions": {
+        "OrganizeImports": true,
         "NewLinesForBracesInTypes": false,
         "NewLinesForBracesInMethods": false,
         "NewLinesForBracesInProperties": false,
